@@ -1,4 +1,6 @@
-# monacoCoin Sentinel  for original code https://github.com/dashpay/sentinel
+# monacoCoin Sentinel  
+From original code https://github.com/dashpay/sentinel
+
 
 An all-powerful toolset for monacoCoin.
 
